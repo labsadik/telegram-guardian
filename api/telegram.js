@@ -1,16 +1,6 @@
-const {
-  createBot,
-} = require("../../lib/guardian");
+const { webhookCallback } = require("grammy");
+const { createBot } = require("../lib/guardian");
 
-const {
-  webhookCallback,
-} = require("grammy");
+const bot = createBot();
 
-const bot =
-  createBot();
-
-module.exports =
-  webhookCallback(
-    bot,
-    "https"
-  );
+module.exports = webhookCallback(bot, "https");
