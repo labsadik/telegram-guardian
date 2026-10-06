@@ -632,8 +632,8 @@ MONGODB_DB
 ### 1. Clone the repository
 
 ~~~bash
-git clone https://github.com/WorkRCS/bot_telegram-guardian.git
-cd bot_telegram-guardian
+git clone https://github.com/labsadik/telegram-guardian.git
+cd telegram-guardian
 ~~~
 
 ### 2. Install dependencies
