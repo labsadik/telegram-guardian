@@ -14,16 +14,30 @@ module.exports = async function handler(req, res) {
 
     const reply =
       Number(chatId) === ownerChatId
-        ? "✅ Guardian AI is online!\n\n" +
-          "Private owner-only assistant.\n\n" +
+        ? "✅ Sarah is online!\n\n" +
+          "Your private AI partner and assistant.\n\n" +
           "Commands:\n" +
           "/start — help\n" +
           "/ping — bot test\n" +
           "/status — system health\n" +
           "/axiom — recent API events\n" +
           "/axiomraw — raw Axiom event\n" +
-          "/reset — reset AI conversation\n\n" +
-          "You can also send normal text or a voice message for general conversation."
+          "/voicetest — test Sarah voice\n" +
+          "/say — text to voice\n" +
+          "/elevenstt — voice to text\n" +
+          "/voicechange — voice to Sarah voice\n" +
+          "/isolate — clean replied voice\n" +
+          "/sfx — generate sound effect\n" +
+          "/music — generate music\n" +
+          "/image — generate image\n" +
+          "/imagestatus — check image\n" +
+          "/video — generate video\n" +
+          "/videostatus — check video\n" +
+          "/mongotest — test memory database\n" +
+          "/memory — memory stats\n" +
+          "/remember — save important memory\n" +
+          "/reset — reset Sarah conversation\n\n" +
+          "Send text for text chat, or a voice message for voice conversation."
         : "⛔ Unauthorized.";
 
     return res.status(200).json({
