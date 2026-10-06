@@ -1,0 +1,25 @@
+STRICT PROPRIETARY AND CONFIDENTIAL
+COMMERCIAL SOURCE-AVAILABLE LICENSE AGREEMENT
+
+Copyright (c) 2026 Sadik Laskar. All Rights Reserved.
+
+1. EXCLUSIVE OWNERSHIP & NOTICE
+This software, including all associated source code, documentation, architectural logic, and algorithms (the "Software"), is the exclusive intellectual property of Sadik Laskar. The presence of this code in a public repository is strictly for portfolio demonstration, viewing, and auditing purposes only. It does NOT constitute an "Open Source" license.
+
+2. ZERO RIGHTS GRANTED (STRICT PROHIBITION)
+You are expressly and strictly PROHIBITED from:
+- Using, executing, copying, downloading, modifying, or merging the Software.
+- Forking, publishing, distributing, sublicensing, or selling copies of the Software.
+- Creating derivative works based on the logic, UI, or architecture of this Software.
+- Reverse-engineering, decompiling, or extracting proprietary algorithms (e.g., DRM integrations, LMS infrastructure, concurrent WebSocket architectures, defense simulation engines, and AI telemetry).
+- Using any part of this repository to train, fine-tune, or prompt machine learning models or artificial intelligence systems.
+
+3. COMMERCIAL USE & LICENSING
+No personal, academic, or commercial use is permitted under any circumstances without a prior, mutually executed, written commercial license agreement from the copyright holder. Any unauthorized use, reproduction, or architectural theft will be considered a severe breach of intellectual property rights and will be subject to immediate legal action.
+
+4. DISCLAIMER OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For commercial licensing inquiries, enterprise acquisition, or written permission, strictly contact:
+Name: Sadik Laskar
+Email: emailme.sadik@gmail.com
