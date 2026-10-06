@@ -32,7 +32,7 @@ The bot only responds to `OWNER_CHAT_ID`.
 
 The Vercel endpoint is ready for an Axiom Custom Webhook notifier:
 
-`https://telegram-guardian.vercel.app/api/axiom-alert`
+`https://bottelegram-guardian.vercel.app/api/axiom-alert`
 
 In Axiom:
 
@@ -112,8 +112,8 @@ Push to `main` and deploy the repository with Vercel.
 
 Telegram webhook:
 
-`https://telegram-guardian.vercel.app/api/telegram`
+`https://bottelegram-guardian.vercel.app/api/telegram`
 
 Axiom webhook:
 
-`https://telegram-guardian.vercel.app/api/axiom-alert`
+`https://bottelegram-guardian.vercel.app/api/axiom-alert`
